@@ -9,7 +9,7 @@ public class Vector3
         point = new Point(x, y, z);
     }
 
-    static 
+   
     public Vector3 Aléatoire()
     {
 

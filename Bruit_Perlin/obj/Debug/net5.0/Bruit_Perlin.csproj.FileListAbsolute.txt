@@ -1,5 +1,5 @@
-C:\Users\emili\Source\Repos\Bruit-Perlin\Bruit_Perlin\obj\Debug\net5.0\Bruit_Perlin.csproj.AssemblyReference.cache
-C:\Users\emili\Source\Repos\Bruit-Perlin\Bruit_Perlin\obj\Debug\net5.0\Bruit_Perlin.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\emili\Source\Repos\Bruit-Perlin\Bruit_Perlin\obj\Debug\net5.0\Bruit_Perlin.AssemblyInfoInputs.cache
-C:\Users\emili\Source\Repos\Bruit-Perlin\Bruit_Perlin\obj\Debug\net5.0\Bruit_Perlin.AssemblyInfo.cs
-C:\Users\emili\Source\Repos\Bruit-Perlin\Bruit_Perlin\obj\Debug\net5.0\Bruit_Perlin.csproj.CoreCompileInputs.cache
+C:\Users\bougi\Documents\Lionel-Groux Session 4\Calcul avancé\PFI\Bruit_Perlin\Bruit_Perlin\obj\Debug\net5.0\Bruit_Perlin.csproj.AssemblyReference.cache
+C:\Users\bougi\Documents\Lionel-Groux Session 4\Calcul avancé\PFI\Bruit_Perlin\Bruit_Perlin\obj\Debug\net5.0\Bruit_Perlin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bougi\Documents\Lionel-Groux Session 4\Calcul avancé\PFI\Bruit_Perlin\Bruit_Perlin\obj\Debug\net5.0\Bruit_Perlin.AssemblyInfoInputs.cache
+C:\Users\bougi\Documents\Lionel-Groux Session 4\Calcul avancé\PFI\Bruit_Perlin\Bruit_Perlin\obj\Debug\net5.0\Bruit_Perlin.AssemblyInfo.cs
+C:\Users\bougi\Documents\Lionel-Groux Session 4\Calcul avancé\PFI\Bruit_Perlin\Bruit_Perlin\obj\Debug\net5.0\Bruit_Perlin.csproj.CoreCompileInputs.cache
