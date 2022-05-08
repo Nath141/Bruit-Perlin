@@ -1,10 +1,6 @@
 ﻿using System;
 
-struct Point
-{
-	double x;
-	double y;
-}
+
 public class Class1
 {
 	
