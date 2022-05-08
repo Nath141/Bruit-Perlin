@@ -9,7 +9,7 @@ public class Vector3
         point = new Point(x, y, z);
     }
 
-   
+
     public Vector3 Aléatoire()
     {
 
@@ -18,7 +18,8 @@ public class Vector3
 
 public class Vector2
 {
-    Point point { get; private set; }
+    public Point point { get; private set; }
+
     public Vector2(double x, double y)
     {
         point = new Point(x, y);
@@ -40,5 +41,5 @@ public struct Point
         Y = y;
         Z = z;
     }
-    
+
 }
