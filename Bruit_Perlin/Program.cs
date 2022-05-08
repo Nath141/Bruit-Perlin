@@ -6,7 +6,7 @@ namespace Bruit_Perlin
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           
         }
     }
 }
